@@ -1,0 +1,36 @@
+* 01
+
+spring boot 3
+openjava zulu 17
+endpoints default health metrics e actuators
+
+* 02
+
+criar github repository
+
+entrar code
+
+copiar url
+
+git clone na pasta do projeto
+
+* 03
+
+jre => build path (trocar versao sdk)
+
+* 04 spring start project
+
+* 05 greeting (spring)
+
+* 06
+
+.gitignore
+
+git add . (todos)
+
+git status
+
+git commit -m"mensagem"
+
+git push
+
